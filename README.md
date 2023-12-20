@@ -56,6 +56,12 @@ $ PORT = PORT
 $ DATABASE_URL = your_data_Base_URL
 $ API_KEY = your_api_key
 ```
+
+Tela de Uso
+```shell
+Web Full Screan 1920px
+Mobile Screan 450px
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
