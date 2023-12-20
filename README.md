@@ -1,9 +1,6 @@
-![Logo of the project](https://www.rdstation.com/wp-content/themes/rdstation/assets/img//logos/rebrand/rd-station-cor-md.svg)
-
-
 ## Halogenn FullStack Test
 The objective of this project is to create an 
-application to display [SpaceX API](https://github.com/r-spacex/SpaceX-API/blob/master/docs/v4/README.md) information
+application to display [](https://github.com/) information
 
 
 ## Technology, Architectures and Standards
