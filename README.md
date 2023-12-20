@@ -51,7 +51,7 @@ $ npm install mongoose @types/mongoose typescript ts-node @types/node  || yarn a
 ```
 
 ```shell
-use on you .env
+use in your .env
 $ PORT = PORT
 $ DATABASE_URL = your_data_Base_URL
 $ API_KEY = your_api_key
