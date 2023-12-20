@@ -2,7 +2,6 @@
 The objective of this project is to create an 
 application to display [](https://github.com/) information
 
-
 ## Technology, Architectures and Standards
 
 Here are the technologies used in this project.
