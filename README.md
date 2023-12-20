@@ -31,6 +31,15 @@ $ cd plg-backend
 $ npm i || yarn add
 
 $ npm dev || yarn dev
+
+$ npm dev || yarn dev
+
+* Configuração do Projeto utilize
+
+$ npm init -y  ||  ou yarn init -y
+
+no projeto Node.js para criar o arquivo package.json.
+
 ```
 
 To run the back:
@@ -40,15 +49,6 @@ $ cd plg-frontend
 
 $ npm i || yarn add
 $ npm install mongoose @types/mongoose typescript ts-node @types/node  || yarn add mongoose @types/mongoose typescript ts-node @types/node
-
-
-$ npm dev || yarn dev
-
-* Configuração do Projeto utilize
-
-$ npm init -y  ||  ou yarn init -y
-
-no projeto Node.js para criar o arquivo package.json.
 ```
 
 ```shell
