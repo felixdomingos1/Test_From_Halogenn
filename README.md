@@ -42,7 +42,7 @@ no projeto Node.js para criar o arquivo package.json.
 
 ```
 
-To run the back:
+To run the front:
 
 ```shell
 $ cd plg-frontend
